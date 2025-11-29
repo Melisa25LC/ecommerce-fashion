@@ -1,4 +1,4 @@
-```yaml
+yaml
 name: Deploy to GitHub Pages
 
 on:
@@ -44,4 +44,4 @@ name: Upload artifact
 name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-```
+
